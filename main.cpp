@@ -8,7 +8,7 @@
 #include <math.h>
 #include <time.h>
 
-// privet //privet
+// privet //privetc erer
 using namespace std;
 
 float crossX;
